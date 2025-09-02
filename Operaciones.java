@@ -1,4 +1,4 @@
-public class HolaMundo{
+public class Operaciones{
     public static void main(String[] args){
         System.out.print("Hola Mundo 1");
 
